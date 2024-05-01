@@ -6,7 +6,7 @@ author: 'Astro learner'
 image: 
     url: 'https://docs.astro.build/assets/rays.webp'
     alt: 'Thumbnail of Astro rays.'
-tags: ["astro", "blogging", "success"]
+tags: ["astro", "blogging", "successes"]
 ---
 # My Second Blog Post
 

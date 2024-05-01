@@ -6,7 +6,7 @@ author: 'Astro learner'
 image: 
     url: 'https://docs.astro.build/assets/arc.webp'
     alt: 'Thumbnail of astro arcs.'
-tags: ["astro", "blogging", "learning in public"]
+tags: ["astro", "blogging", "learning in public", "community"]
 ---
 # My Third Blog Post
 
